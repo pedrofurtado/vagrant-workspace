@@ -9,7 +9,7 @@ My personal Vagrant workspace with VirtualBox provider. Used only for developmen
 ## Workspace
 
 * Operating system
-  * Lubuntu Desktop 18.04 LTS (64 bits)
+  * Lubuntu Desktop 20.04 LTS (64 bits)
 * Browsers
   * Google Chrome
 * Code editors
