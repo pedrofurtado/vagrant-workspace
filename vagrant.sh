@@ -29,14 +29,6 @@ apt-get install -y virtualbox-guest-dkms
 apt-get install -y virtualbox-guest-utils
 apt-get install -y virtualbox-guest-x11
 
-# Android Studio.
-snap install android-studio --classic
-apt-get install -y android-tools-adb android-tools-fastboot
-
-# Flutter.
-snap install flutter --classic
-flutter doctor
-
 # Timezone.
 echo "sudo timedatectl set-timezone America/Sao_Paulo" >> /home/vagrant/.profile
 
